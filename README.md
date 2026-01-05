@@ -83,7 +83,16 @@ Scenario-based interview Q&A and command cheat sheets are provided in separate P
 - Practice common tools and environments before the interview.
 - Stay calm and structured when answering scenario questions.
 
-📩 **Contact me to get access to private GitHub repo (paid):**  
+## 🎥 Learn With YouTube Tutorials
+
+Each project is **explained step-by-step** on YouTube with visuals and walkthroughs:
+
+🔗 [📺 Bishtify - Build Skills, Not Just Resumes](https://www.youtube.com/@getbishtified) 
+🧠 Subscribe for weekly ML + CloudOps demos.
+
+---
+
+📩 **Contact:**  
 📧 `support@bishtify.com`
 
 🤝 Connect With Me - 📧 [Click here](https://topmate.io/pradeep_singh_bisht)
